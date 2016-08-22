@@ -1,5 +1,7 @@
 # Lango
 
+[![Join the chat at https://gitter.im/lango-nlp/Lobby](https://badges.gitter.im/lango-nlp/Lobby.svg)](https://gitter.im/lango-nlp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Lango is a natural language processing library for working with the building blocks of language. It includes tools for:
 
 * matching [constituent parse trees](https://en.wikipedia.org/wiki/Parse_tree#Constituency-based_parse_trees). 
